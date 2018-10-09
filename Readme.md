@@ -5,4 +5,4 @@
 
 - **todo-app** Vue todo app tutorial: Add, Delete, and Edit items
 
--- https://scotch.io/tutorials/build-a-to-do-app-with-vue-js-2
+-- https://vueschool.io/courses/vuejs-fundamentals
